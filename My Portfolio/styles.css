@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 0;
+    color: #000;
+  }
+  
+  header p {
+    font-weight: bold;
+  }
+  
+  header ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  header ul li a {
+    color: purple;
+    text-decoration: none;
+  }
+  
+  header ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .image-section {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .image-section p {
+    margin-top: 10px;
+    font-style: italic;
+  }
+  
+  .page-content {
+    border-top: 1px solid black;
+    padding-top: 20px;
+  }
+  
+  .page-content p {
+    font-style: italic;
+  }
+  
+  .page-content h1 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  .page-content div {
+    margin: 10px 0;
+  }
+
+  footer {
+    margin-top: 20px;
+    font-weight: bold;
+  }
